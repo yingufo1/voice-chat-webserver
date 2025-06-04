@@ -3,7 +3,7 @@ from typing import Union
 from fastapi import FastAPI, UploadFile
 import whisper
 import requests
-import pyttsx3
+
 
 app = FastAPI()
 
